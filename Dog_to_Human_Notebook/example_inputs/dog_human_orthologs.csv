@@ -1,0 +1,3 @@
+dog_gene_id,dog_gene_name,human_gene_id,human_gene_name
+ENSCAFG00000000002,GeneA,ENSG00000111111,GENEA
+ENSCAFG00000000004,GeneC,ENSG00000133333,GENEC
